@@ -1,0 +1,20 @@
+.odd {
+    background-color:  lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}  
+.size{
+    font-size: 24px;
+}
+.p{
+    text color: black; 
+}
+.background{
+background-color: green;
+}
+.pese{
+    font-weight: bold;
+}
+#diferente {
+   color: blue;
+    font-size: 36px;
+}
